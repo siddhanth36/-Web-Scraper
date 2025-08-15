@@ -5,3 +5,10 @@ Enter Amazon product URL: https://www.amazon.com/dp/B08N5KWB9H
 📦 Title: PlayStation 5 Console
 💰 Price: $499.00
 ✅ Data saved to 'amazon_products.csv'
+
+
+Inside .csv file 
+
+Example Output 
+
+"2020 Apple MacBook Air Laptop: Apple M1 Chip, 13” Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Silver",Price not found,https://www.amazon.com/dp/B08N5KWB9H
