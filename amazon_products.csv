@@ -1,0 +1,7 @@
+Example Output
+
+Amazon Product Scraper
+Enter Amazon product URL: https://www.amazon.com/dp/B08N5KWB9H
+📦 Title: PlayStation 5 Console
+💰 Price: $499.00
+✅ Data saved to 'amazon_products.csv'
